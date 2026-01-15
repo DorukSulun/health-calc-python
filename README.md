@@ -14,7 +14,7 @@ A simple, Python-based Command Line Interface (CLI) tool designed to help users 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/health-calc-python.git](https://github.com/KULLANICI_ADIN/health-calc-python.git)
+    git clone [https://github.com/DorukSulun/health-calc-python.git](https://github.com/DorukSulun/health-calc-python.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
